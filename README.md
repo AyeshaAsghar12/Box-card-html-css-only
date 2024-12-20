@@ -25,6 +25,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![Muticolor Card](https://github.com/user-attachments/assets/a6925097-6e87-4f4c-a556-df360040e97f)
 
 
 
